@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.udemy.com//the-complete-web-development-bootcamp/"><img src="https://github.com/saturnian-vivi/web-development-bootcamp/blob/main/assets/course-cover-img.jpg" alt="Course Cover & Link" style="width:100; height:auto;"/></a>
+  <a href="https://www.udemy.com//the-complete-web-development-bootcamp/"><img src="https://github.com/saturnian-vivi/udemy-web-development-bootcamp/blob/main/assets/course-cover-img.jpg" alt="Course Cover & Link" style="width:100; height:auto;"/></a>
 </div>
 
 <br />
